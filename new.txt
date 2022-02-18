@@ -1,0 +1,11 @@
+Information about yourself
+
+First name: Ivan
+Last name: Kabarzhitsky
+Patronymic: Aleksandrovich
+Age: 33
+Pets: none
+Future salary: 
+	- junior: 700$
+	- middle: 1500$
+	- senior: 2100$
