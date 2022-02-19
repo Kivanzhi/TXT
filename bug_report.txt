@@ -1,1 +1,10 @@
+Bug report structure:
+1.ID
+2.Summury
+3.Severity
+4.Priotity
+5.Steps to Reproduce
+6.Result
+7.Expected result
+8.Environment
 
